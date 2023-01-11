@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="encryption_systemn.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bin_to_twos_complement.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="bin_to_twos_complement.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="bin_to_twos_complement.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="binary_to_nucleotides_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="binary_to_nucleotides_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="binary_to_ones_complement.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="binary_to_ones_complement.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="binary_to_ones_complement.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="binary_to_ones_complement_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="binary_to_ones_complement_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="binary_to_twos_complement.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="binary_to_twos_complement.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="binary_to_twos_complement.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="choose_rule.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="choose_rule.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="choose_rule.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dna_encryption.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="dna_encryption.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="dna_encryption.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fullwordceaser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="fullwordceaser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="fullwordceaser.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fullwordceaser_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fullwordceaser_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="main_encrypt.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="main_encrypt.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="main_encrypt.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="main_encrypt_tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="reverse_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="reverse_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="string_to_bin_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="string_to_bin_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="string_to_bin_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_bin_to_nuc_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbench_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testchooserule_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testchooserule_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testfull_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testfull_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="testfull_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testfull_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="xor_dna_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="xor_dna_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1673297126" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1673297126">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1673354052" xil_pn:in_ck="2579489742472106288" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1673354052">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TEST_DNA.vhd"/>
+      <outfile xil_pn:name="bintochar.vhd"/>
+      <outfile xil_pn:name="bintonuc.vhd"/>
+      <outfile xil_pn:name="ceasear_logic.vhd"/>
+      <outfile xil_pn:name="ceaser_char.vhd"/>
+      <outfile xil_pn:name="ceaser_encryption.vhd"/>
+      <outfile xil_pn:name="charto_bin.vhd"/>
+      <outfile xil_pn:name="chartobin.vhd"/>
+      <outfile xil_pn:name="comp.vhd"/>
+      <outfile xil_pn:name="dna_ecrypt.vhd"/>
+      <outfile xil_pn:name="dnaencrypttest.vhd"/>
+      <outfile xil_pn:name="ffaf.vhd"/>
+      <outfile xil_pn:name="main_encrypt.vhd"/>
+      <outfile xil_pn:name="testall.vhd"/>
+      <outfile xil_pn:name="testbintonuc.vhd"/>
+      <outfile xil_pn:name="testchartobin.vhd"/>
+      <outfile xil_pn:name="testcomp.vhd"/>
+      <outfile xil_pn:name="testfull.vhd"/>
+      <outfile xil_pn:name="testmain.vhd"/>
+      <outfile xil_pn:name="xor.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1673358409" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9152102859365548695" xil_pn:start_ts="1673358409">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1673358409" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5619931288608900071" xil_pn:start_ts="1673358409">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1673352552" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="7417944673960325781" xil_pn:start_ts="1673352552">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1673354052" xil_pn:in_ck="2579489742472106288" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1673354052">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TEST_DNA.vhd"/>
+      <outfile xil_pn:name="bintochar.vhd"/>
+      <outfile xil_pn:name="bintonuc.vhd"/>
+      <outfile xil_pn:name="ceasear_logic.vhd"/>
+      <outfile xil_pn:name="ceaser_char.vhd"/>
+      <outfile xil_pn:name="ceaser_encryption.vhd"/>
+      <outfile xil_pn:name="charto_bin.vhd"/>
+      <outfile xil_pn:name="chartobin.vhd"/>
+      <outfile xil_pn:name="comp.vhd"/>
+      <outfile xil_pn:name="dna_ecrypt.vhd"/>
+      <outfile xil_pn:name="dnaencrypttest.vhd"/>
+      <outfile xil_pn:name="ffaf.vhd"/>
+      <outfile xil_pn:name="main_encrypt.vhd"/>
+      <outfile xil_pn:name="testall.vhd"/>
+      <outfile xil_pn:name="testbintonuc.vhd"/>
+      <outfile xil_pn:name="testchartobin.vhd"/>
+      <outfile xil_pn:name="testcomp.vhd"/>
+      <outfile xil_pn:name="testfull.vhd"/>
+      <outfile xil_pn:name="testmain.vhd"/>
+      <outfile xil_pn:name="xor.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1673358414" xil_pn:in_ck="2579489742472106288" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2463633056214433486" xil_pn:start_ts="1673358409">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="testfull_beh.prj"/>
+      <outfile xil_pn:name="testfull_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1673358414" xil_pn:in_ck="-3222579820752388337" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8899822068627133217" xil_pn:start_ts="1673358414">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="testfull_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,6 @@
+vhdl isim_temp "xor.vhd"
+vhdl isim_temp "comp.vhd"
+vhdl isim_temp "chartobin.vhd"
+vhdl isim_temp "bintonuc.vhd"
+vhdl isim_temp "dna_ecrypt.vhd"
+vhdl isim_temp "TEST_DNA.vhd"

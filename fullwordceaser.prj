@@ -1,0 +1,5 @@
+vhdl work "charto_bin.vhd"
+vhdl work "ceasear_logic.vhd"
+vhdl work "bintochar.vhd"
+vhdl work "ceaser_char.vhd"
+vhdl work "ceaser_encryption.vhd"

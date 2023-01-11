@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/dsd project/encryption_systemn/testfull_isim_beh.exe" -prj "D:/dsd project/encryption_systemn/testfull_beh.prj" "work.testfull" 

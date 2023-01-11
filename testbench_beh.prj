@@ -1,0 +1,6 @@
+vhdl work "xor.vhd"
+vhdl work "comp.vhd"
+vhdl work "chartobin.vhd"
+vhdl work "bintonuc.vhd"
+vhdl work "dna_ecrypt.vhd"
+vhdl work "dnaencrypttest.vhd"

@@ -1,0 +1,6 @@
+vhdl isim_temp "charto_bin.vhd"
+vhdl isim_temp "ceasear_logic.vhd"
+vhdl isim_temp "bintochar.vhd"
+vhdl isim_temp "ceaser_char.vhd"
+vhdl isim_temp "ceaser_encryption.vhd"
+vhdl isim_temp "testfull.vhd"
